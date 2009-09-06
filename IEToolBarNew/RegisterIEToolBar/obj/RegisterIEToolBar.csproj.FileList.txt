@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegisterIEToolBar.Form1.resources
+obj\Debug\RegisterIEToolBar.Properties.Resources.resources
+obj\Debug\RegisterIEToolBar.csproj.GenerateResource.Cache
+bin\Debug\RegisterIEToolBar.exe
+bin\Debug\RegisterIEToolBar.pdb
+bin\Debug\IEToolBar.dll
+bin\Debug\Interop.SHDocVw.dll
+bin\Debug\IEToolBar.pdb
+obj\Debug\RegisterIEToolBar.exe
+obj\Debug\RegisterIEToolBar.pdb

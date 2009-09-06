@@ -1,0 +1,8 @@
+bin\Debug\IEToolBar.dll
+bin\Debug\IEToolBar.pdb
+bin\Debug\Interop.SHDocVw.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SHDocVw.dll
+obj\Debug\IEToolBar.csproj.ResolveComReference.cache
+obj\Debug\IEToolBar.dll
+obj\Debug\IEToolBar.pdb
