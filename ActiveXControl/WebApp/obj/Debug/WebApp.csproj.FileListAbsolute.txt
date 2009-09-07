@@ -1,5 +1,0 @@
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\WebApp\bin\WebApp.dll
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\WebApp\bin\WebApp.pdb
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\WebApp\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\WebApp\obj\Debug\WebApp.dll
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\WebApp\obj\Debug\WebApp.pdb
