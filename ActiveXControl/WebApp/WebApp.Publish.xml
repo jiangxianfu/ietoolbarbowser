@@ -1,0 +1,8 @@
+<publishData>
+  <publishTarget publishUrl="d:\weboos\">
+    <file relUrl="bin/WebApp.dll" publishTime="09/02/2009 10:12:04" />
+    <file relUrl="Default.aspx" publishTime="09/02/2009 10:12:23" />
+    <file relUrl="bin/WebApp.pdb" publishTime="09/02/2009 10:12:03" />
+    <file relUrl="Web.config" publishTime="09/01/2009 17:47:05" />
+  </publishTarget>
+</publishData>
