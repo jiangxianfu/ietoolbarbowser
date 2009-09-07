@@ -1,6 +1,0 @@
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\ActiveXControl\bin\Debug\ActiveXControl.dll
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\ActiveXControl\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\ActiveXControl\obj\Debug\ActiveXControl.InputText.resources
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\ActiveXControl\obj\Debug\ActiveXControl.csproj.GenerateResource.Cache
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\ActiveXControl\obj\Debug\ActiveXControl.dll
-C:\Documents and Settings\steven.jiang\桌面\ActiveXControl\ActiveXControl\obj\Debug\ActiveXControl.pdb
